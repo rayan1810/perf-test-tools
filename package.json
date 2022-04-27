@@ -1,0 +1,22 @@
+{
+  "name": "perf-test-tools",
+  "version": "1.0.0",
+  "description": "Set of performance testing tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayan1810/perf-test-tools.git"
+  },
+  "author": "rayan1810 <rohit99.ind@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rayan1810/perf-test-tools/issues"
+  },
+  "homepage": "https://github.com/rayan1810/perf-test-tools#readme",
+  "peerDependencies": {
+    "react": "^18.1.0"
+  }
+}
